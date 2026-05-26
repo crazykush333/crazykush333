@@ -66,4 +66,4 @@
 
 - LinkedIn: [ayush-kushwaha](https://www.linkedin.com/in/ayush-kushwaha/)
 - Gmail: [crazykush333@gmail.com](mailto:crazykush333@gmail.com)
-- ResearchGate: [Find me on ResearchGate](https://www.researchgate.net/)
+- ResearchGate: [Find me on ResearchGate](https://www.researchgate.net/profile/Ayush-Kushwaha)
