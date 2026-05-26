@@ -3,7 +3,7 @@
 # Hi, I'm Ayush 👋
 ### Blockchain & AI Enthusiast | Computer Science Graduate
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+trustworthy+AI+with+Blockchain;Researching+Explainable+AI+for+Secure+Systems;Open+to+Research+Collaborations+and+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+trustworthy+AI+with+Blockchain;Researching+Explainable+AI+for+Secure+Systems;Open+to+Research+Collaborations+and+Internships)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,8 +33,8 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=crazykush333&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=crazykush333&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=crazykush333&show_icons=true&theme=radical&rank_icon=github&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=crazykush333&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -51,13 +51,13 @@
 
 | Project | Focus Area | Link |
 |---|---|---|
-| Blockchain Enhanced Explainable AI for Real-Time Credit Card Fraud Detection | AI + Blockchain + FinTech Security | [View Repository](https://github.com/crazykush333?tab=repositories&q=credit+card+fraud&type=&language=&sort=) |
-| AI-driven Research Planning Tools | Research productivity with LLM-assisted workflows | [Explore Work](https://github.com/crazykush333?tab=repositories&q=research&type=&language=&sort=) |
+| Blockchain Enhanced Explainable AI for Real-Time Credit Card Fraud Detection | AI + Blockchain + FinTech Security | [Project repository list](https://github.com/crazykush333?tab=repositories) |
+| AI-driven Research Planning Tools | Research productivity with LLM-assisted workflows | [Project repository list](https://github.com/crazykush333?tab=repositories) |
 | Profile Dashboard Repository | Personal portfolio README and branding | [crazykush333/crazykush333](https://github.com/crazykush333/crazykush333) |
 
 <p align="center">
   <a href="https://github.com/crazykush333/crazykush333">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crazykush333&repo=crazykush333&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=crazykush333&repo=crazykush333&theme=radical&hide_border=true" />
   </a>
 </p>
 
@@ -66,11 +66,11 @@
 ## 🔗 Interactive Dashboard
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crazykush333&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crazykush333&theme=radical&hide_border=true&area=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazykush333&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazykush333&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
