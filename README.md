@@ -35,15 +35,15 @@
 
 - 🎓 B.Tech in Computer Science with a **GPA of 9.0/10**.
 - 🔬 Focused on **Blockchain**, **AI research**, **Explainable AI (XAI)**, and **secure intelligent systems**.
-- 🎯 Career objective: pursue postgraduate research in AI/IT with top scholarship pathways (RTP, Swiss Excellence, and similar global opportunities).
+- 🎯 Career objective: pursue postgraduate research in AI/IT with top scholarship pathways, including the **Research Training Program (RTP)**, Swiss Excellence, and similar global opportunities.
 
 ## 💻 Notable Projects
 
 | Project | What it does |
 |---|---|
-| [Blockchain Enhanced Explainable AI for Real-Time Credit Card Fraud Detection](https://github.com/crazykush333?tab=repositories) | Integrates blockchain-backed integrity with explainable AI models for real-time fraud intelligence. |
-| [AI-Driven Research Planning Tools](https://github.com/crazykush333?tab=repositories) | Uses AI workflows to structure literature discovery, topic mapping, and research execution planning. |
-| [Explore More Repositories](https://github.com/crazykush333?tab=repositories) | Click to view additional experiments, tools, and research prototypes. |
+| [Blockchain Enhanced Explainable AI for Real-Time Credit Card Fraud Detection](https://github.com/crazykush333/blockchain-enhanced-explainable-ai-fraud-detection) | Integrates blockchain-backed integrity with explainable AI models for real-time fraud intelligence. |
+| [AI-Driven Research Planning Tools](https://github.com/crazykush333/ai-driven-research-planning-tools) | Uses AI workflows to structure literature discovery, topic mapping, and research execution planning. |
+| [Explore More Repositories](https://github.com/crazykush333?tab=repositories) | Additional experiments, tools, and research prototypes. |
 
 ## 🔗 Interactive Dashboard
 
