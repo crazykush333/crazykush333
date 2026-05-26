@@ -1,27 +1,27 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Ayush%20Kushwaha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20•%20Blockchain%20Developer%20•%20Computer%20Science%20Engineer&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Ayush%20Kushwaha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20•%20Blockchain%20Developer%20•%20Computer%20Science%20Engineer&descAlignY=60&descSize=20"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Ayush+👋;Building+Trustworthy+AI+Systems;Blockchain+%2B+Explainable+AI+Research;Full+Stack+Developer+%7C+AI+Engineer;IEEE+Published+Researcher;Open+Source+Contributor+🚀;Always+Learning+Something+New+⚡" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=1100&lines=Hi+there!+I'm+Ayush+👋;AI+Researcher;Blockchain+Developer;IEEE+Published+Author;Computer+Vision+Enthusiast;Full+Stack+Developer;Open+Source+Contributor+🚀;Always+Learning+New+Technologies+⚡" />
 
 <br><br>
 
 <a href="https://github.com/crazykush333">
-<img src="https://img.shields.io/github/followers/crazykush333?style=for-the-badge&logo=github&color=181717&labelColor=000000" />
+<img src="https://img.shields.io/github/followers/crazykush333?style=for-the-badge&logo=github&color=181717&labelColor=000000"/>
 </a>
 
 <a href="https://komarev.com/ghpvc/?username=crazykush333">
-<img src="https://komarev.com/ghpvc/?username=crazykush333&style=for-the-badge&color=00E5FF" />
+<img src="https://komarev.com/ghpvc/?username=crazykush333&style=for-the-badge&color=00E5FF"/>
 </a>
 
 <a href="https://github.com/crazykush333?tab=repositories">
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-00C853?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-00C853?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://scholar.google.com/citations?hl=en&user=5qqQ9B0AAAAJ&view_op=list_works&gmla=AIqSsVsquwy3eszPjT2a-RFnHf3zdzhd18WK5Yb4XUzW2FUIdGH0y0Vzma1oAZp2ciaNcvT0xWTFIoqBGGhXxesm">
-<img src="https://img.shields.io/badge/Google%20Scholar-Research-blue?style=for-the-badge&logo=google-scholar" />
+<img src="https://img.shields.io/badge/Google%20Scholar-Research-blue?style=for-the-badge&logo=google-scholar"/>
 </a>
 
 </div>
@@ -30,16 +30,27 @@
 
 # 🌌 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<div align="center">
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+</div>
 
 ### 👨‍💻 Ayush Kushwaha
-- 🎓 B.Tech in Computer Science Engineering
-- 📍 Nepal 🇳🇵
-- 🧠 Passionate about Artificial Intelligence & Blockchain
-- 🔬 IEEE Published Researcher
-- 🚀 Exploring Explainable AI, Secure Systems & Deep Learning
-- 💡 Enthusiastic about building impactful tech solutions
-- 🌱 Continuously learning and contributing to open source
+
+🎓 Computer Science Engineering Graduate passionate about developing intelligent and secure systems using **Artificial Intelligence** and **Blockchain technologies**.
+
+🚀 I enjoy building impactful solutions involving:
+- Explainable Artificial Intelligence (XAI)
+- Blockchain & Smart Contracts
+- Machine Learning & Deep Learning
+- Computer Vision
+- Secure Distributed Systems
+- Research-driven Engineering
+
+🌱 Currently exploring advanced AI systems, decentralized technologies, and scalable intelligent architectures.
+
+📚 IEEE Published Author in AI + Blockchain Systems.
 
 <br><br>
 
@@ -51,15 +62,19 @@
 
 ## 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,solidity,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,solidity,sql"/>
+
+<br><br>
 
 ## 🚀 Frameworks & Technologies
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,nodejs,mongodb,docker,linux,git" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,nodejs,mongodb,docker,linux,git"/>
 
-## 🛠️ Tools & Platforms
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=vscode,github,pycharm,idea,androidstudio,postman" />
+## 🛠️ Developer Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,github,pycharm,idea,androidstudio,postman"/>
 
 </div>
 
@@ -69,9 +84,17 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=crazykush333&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=crazykush333&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazykush333&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazykush333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<br><br>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crazykush333&theme=tokyonight"/>
+
+<br><br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=crazykush333&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -81,22 +104,72 @@
 
 <div align="center">
 
-| 💻 Project | 🚀 Tech Stack | 🌟 Highlights |
-|---|---|---|
-| **Blockchain Enhanced XAI Fraud Detection** | Python, XGBoost, SHAP, Hyperledger | Explainable AI + Blockchain-powered fraud prevention |
-| **3D Brain Tumor Segmentation** | TensorFlow, Python, BRATS 2020 | Deep Learning medical imaging with 3D U-Net |
-| **Blockchain Document Verification** | Solidity, IPFS, Polygon | Secure decentralized academic verification |
-| **AI Research Planning Tools** | LLMs, Automation | AI-assisted research productivity systems |
+<table>
+<tr>
+<td width="50%">
+
+## 🔐 Blockchain Enhanced XAI Fraud Detection
+
+### 🚀 Tech Stack
+Python • XGBoost • SHAP • Hyperledger Fabric
+
+### 🌟 Highlights
+- Explainable AI-powered fraud detection
+- Blockchain-secured transaction logging
+- Optimized preprocessing with SMOTE balancing
+- Enhanced transparency using SHAP explainability
+
+</td>
+
+<td width="50%">
+
+## 🧬 Brain Tumor Segmentation using 3D U-Net
+
+### 🚀 Tech Stack
+TensorFlow • Python • BRATS 2020
+
+### 🌟 Highlights
+- 3D U-Net based medical image segmentation
+- Multi-modal MRI analysis
+- Advanced preprocessing & augmentation
+- Improved segmentation accuracy
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 📜 Blockchain Document Verification System
+
+### 🚀 Tech Stack
+Solidity • IPFS • Polygon • MetaMask
+
+### 🌟 Highlights
+- Secure decentralized certificate validation
+- Tamper-proof blockchain verification
+- Smart contract-based authentication
+- IPFS-powered distributed storage
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🏆 Achievements
+# 🏆 Achievements & Recognition
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=crazykush333&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=crazykush333&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -104,23 +177,13 @@
 
 <div align="center">
 
-| 🏅 Achievement | 📌 Description |
+| 🏅 Achievement | 📌 Recognition |
 |---|---|
 | 🥇 NPTEL TOP 1% | Cloud Computing — IIT Kharagpur |
 | 🧠 IEEE Author | Published AI + Blockchain research |
 | 💡 Code For Good 2025 | Top 503 among 50,000+ participants |
 | 🎓 Chancellor’s Scholarship | Full tuition fee waiver |
 | 🚀 PwC NextGen Leaders | Top 10 among 4,000 participants |
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=crazykush333&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -154,11 +217,11 @@
 
 ---
 
-# 💭 Quote I Believe In
+# 💭 Daily Inspiration
 
 <div align="center">
 
-### ✨ “Technology becomes meaningful when intelligence is transparent and trust is decentralized.” ✨
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
