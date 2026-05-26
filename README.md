@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Ayush%20Kushwaha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=62&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Ayush%20Kushwaha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20•%20Blockchain%20Developer%20•%20Computer%20Science%20Engineer&descAlignY=60&descSize=20"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2200&pause=1000&color=00E5FF&center=true&vCenter=true&width=1100&lines=AI+Researcher;Blockchain+Developer;Computer+Science+Engineer;IEEE+Published+Author;Open+Source+Contributor;Building+Trustworthy+AI+Systems+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=1100&lines=Hi+there!+I'm+Ayush+👋;AI+Researcher;Blockchain+Developer;IEEE+Published+Author;Computer+Vision+Enthusiast;Full+Stack+Developer;Open+Source+Contributor+🚀;Always+Learning+New+Technologies+⚡" />
 
 <br><br>
 
 <a href="https://github.com/crazykush333">
-<img src="https://img.shields.io/github/followers/crazykush333?style=for-the-badge&logo=github&label=Followers&color=181717"/>
+<img src="https://img.shields.io/github/followers/crazykush333?style=for-the-badge&logo=github&color=181717&labelColor=000000"/>
 </a>
 
 <a href="https://komarev.com/ghpvc/?username=crazykush333">
@@ -32,15 +32,15 @@
 
 <div align="center">
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 </div>
 
 ### 👨‍💻 Ayush Kushwaha
 
-🎓 Computer Science Engineering Graduate passionate about building intelligent and secure systems using **Artificial Intelligence** and **Blockchain technologies**.
+🎓 Computer Science Engineering Graduate passionate about developing intelligent and secure systems using **Artificial Intelligence** and **Blockchain technologies**.
 
-🚀 Areas I enjoy working on:
+🚀 I enjoy building impactful solutions involving:
 - Explainable Artificial Intelligence (XAI)
 - Blockchain & Smart Contracts
 - Machine Learning & Deep Learning
@@ -48,7 +48,7 @@
 - Secure Distributed Systems
 - Research-driven Engineering
 
-🌱 Currently exploring scalable AI systems and decentralized technologies.
+🌱 Currently exploring advanced AI systems, decentralized technologies, and scalable intelligent architectures.
 
 📚 IEEE Published Author in AI + Blockchain Systems.
 
@@ -72,7 +72,7 @@
 
 <br><br>
 
-## 🛠️ Tools & Platforms
+## 🛠️ Developer Tools
 
 <img src="https://skillicons.dev/icons?i=vscode,github,pycharm,idea,androidstudio,postman"/>
 
@@ -84,17 +84,17 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=crazykush333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=crazykush333&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazykush333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=ffffff"/>
-
-<br><br>
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crazykush333&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazykush333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 <br><br>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=crazykush333&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crazykush333&theme=tokyonight"/>
+
+<br><br>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=crazykush333&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -116,8 +116,8 @@ Python • XGBoost • SHAP • Hyperledger Fabric
 ### 🌟 Highlights
 - Explainable AI-powered fraud detection
 - Blockchain-secured transaction logging
-- SHAP-based transparent predictions
-- Optimized preprocessing using SMOTE balancing
+- Optimized preprocessing with SMOTE balancing
+- Enhanced transparency using SHAP explainability
 
 </td>
 
@@ -129,7 +129,7 @@ Python • XGBoost • SHAP • Hyperledger Fabric
 TensorFlow • Python • BRATS 2020
 
 ### 🌟 Highlights
-- 3D U-Net based MRI segmentation
+- 3D U-Net based medical image segmentation
 - Multi-modal MRI analysis
 - Advanced preprocessing & augmentation
 - Improved segmentation accuracy
@@ -146,7 +146,7 @@ TensorFlow • Python • BRATS 2020
 Solidity • IPFS • Polygon • MetaMask
 
 ### 🌟 Highlights
-- Decentralized certificate validation
+- Secure decentralized certificate validation
 - Tamper-proof blockchain verification
 - Smart contract-based authentication
 - IPFS-powered distributed storage
@@ -155,7 +155,7 @@ Solidity • IPFS • Polygon • MetaMask
 
 <td width="50%">
 
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
 
 </td>
 </tr>
@@ -169,7 +169,7 @@ Solidity • IPFS • Polygon • MetaMask
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=crazykush333&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=crazykush333&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
