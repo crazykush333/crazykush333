@@ -1,136 +1,88 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000428,50:004e92,100:00E5FF&text=AYUSH%20KUSHWAHA&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF006E,50:FB5607,100:FFBE0B&text=Ayush%20Kushwaha&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Blockchain%20%7C%20ML%20Engineer&descAlignY=62&descSize=25"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=1000&lines=AI+Researcher;Blockchain+Developer;IEEE+Published+Author;Computer+Vision+Enthusiast;Full+Stack+Developer;Open+Source+Contributor+🚀;Always+Learning+New+Technologies+⚡)
 
-</div>
 
----
+<br><br>
 
-## 🎯 **WHO AM I?**
+<a href="https://github.com/crazykush333">
+<img src="https://img.shields.io/github/followers/crazykush333?style=for-the-badge&logo=github&color=181717&labelColor=000000"/>
+</a>
 
-<div align="center">
+<a href="https://komarev.com/ghpvc/?username=crazykush333">
+<img src="https://komarev.com/ghpvc/?username=crazykush333&style=for-the-badge&color=00E5FF"/>
+</a>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<a href="https://github.com/crazykush333?tab=repositories">
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-00C853?style=for-the-badge&logo=github"/>
+</a>
 
-### **Ayush Kushwaha** 🚀
-**CS Engineering Graduate | AI/ML Researcher | Blockchain Developer | IEEE Published Author**
-
-I'm a **passionate engineer and researcher** obsessed with building **intelligent, secure, and scalable systems** that push the boundaries of what's possible.
-
-My mission? **Transform complex problems into elegant AI-powered solutions** backed by cutting-edge research and blockchain technology.
-
-**🔥 Specializations:**
-- 🧠 **Explainable AI (XAI)** - Making AI transparent and trustworthy
-- ⛓️ **Blockchain & Smart Contracts** - Building decentralized futures
-- 🤖 **Machine Learning & Deep Learning** - From theory to production
-- 👁️ **Computer Vision** - Teaching machines to see and understand
-- 🔐 **Secure Distributed Systems** - Security-first architecture
-- 📊 **Research-Driven Engineering** - Published innovations
+<a href="https://scholar.google.com/citations?hl=en&user=5qqQ9B0AAAAJ&view_op=list_works&gmla=AIqSsVsquwy3eszPjT2a-RFnHf3zdzhd18WK5Yb4XUzW2FUIdGH0y0Vzma1oAZp2ciaNcvT0xWTFIoqBGGhXxesm">
+<img src="https://img.shields.io/badge/Google%20Scholar-Research-blue?style=for-the-badge&logo=google-scholar"/>
+</a>
 
 </div>
 
 ---
 
-## 🎓 **MY JOURNEY**
-
-> **From classrooms to research papers, from hackathons to blockchain production** — I've built systems that matter.
-
-- 📜 **IEEE Published Author** in AI + Blockchain intersection
-- 🥇 **NPTEL Top 1%** — Cloud Computing Excellence (IIT Kharagpur)
-- 💼 **PwC NextGen Leaders** — Top 10 among 4,000+ participants
-- 🎓 **Chancellor's Scholar** — Full tuition fee waiver recipient
-- 🏆 **Code For Good 2025** — Top 503 among 50,000+ participants
-
----
-
-## ⚡ **TECH ARSENAL**
+# 🌌 About Me
 
 <div align="center">
 
-### **Languages I Speak**
-```
-Python  •  Java  •  C/C++  •  JavaScript  •  Solidity  •  SQL
-```
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### **Frameworks & Powerhouses**
-```
-TensorFlow  •  PyTorch  •  React  •  Node.js  •  MongoDB  
-Docker  •  Linux  •  Git  •  Hyperledger Fabric
-```
+</div>
 
-### **Tools of the Trade**
-```
-VS Code  •  PyCharm  •  IntelliJ IDEA  •  Postman  •  Android Studio
-```
+### 👨‍💻 Ayush Kushwaha
+
+🎓 Computer Science Engineering Graduate passionate about developing intelligent and secure systems using **Artificial Intelligence** and **Blockchain technologies**.
+
+🚀 I enjoy building impactful solutions involving:
+- Explainable Artificial Intelligence (XAI)
+- Blockchain & Smart Contracts
+- Machine Learning & Deep Learning
+- Computer Vision
+- Secure Distributed Systems
+- Research-driven Engineering
+
+🌱 Currently exploring advanced AI systems, decentralized technologies, and scalable intelligent architectures.
+
+📚 IEEE Published Author in AI + Blockchain Systems.
+
+<br><br>
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+## 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,solidity,sql"/>
+
+<br><br>
+
+## 🚀 Frameworks & Technologies
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,nodejs,mongodb,docker,linux,git"/>
+
+<br><br>
+
+## 🛠️ Developer Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,github,pycharm,idea,androidstudio,postman"/>
 
 </div>
 
 ---
 
-## 🔥 **FEATURED PROJECTS**
+# 📊 GitHub Analytics
 
 <div align="center">
 
-### **🔐 BLOCKCHAIN ENHANCED XAI FRAUD DETECTION**
-**Redefining Trust in Financial Systems**
 
-```
-Technologies: Python | XGBoost | SHAP | Hyperledger Fabric | Neural Networks
-```
-
-**What Makes It Special:**
-- ✅ **Explainable AI-powered fraud detection** — Every decision explained in human-readable terms
-- ✅ **Blockchain-secured transaction logging** — Immutable audit trails for complete transparency
-- ✅ **SMOTE-balanced preprocessing** — Handling class imbalance like a pro
-- ✅ **SHAP interpretability** — Understanding the "why" behind predictions
-
-**Impact:** Advanced transparency + enterprise-grade security = fraud prevention that stakeholders actually trust
-
----
-
-### **🧬 BRAIN TUMOR SEGMENTATION USING 3D U-NET**
-**Medical AI That Saves Lives**
-
-```
-Technologies: TensorFlow | Python | BRATS 2020 Dataset | 3D Deep Learning
-```
-
-**What Makes It Special:**
-- ✅ **3D U-Net architecture** — Capturing spatial context in medical imaging
-- ✅ **Multi-modal MRI analysis** — Processing T1, T2, T1c, FLAIR sequences
-- ✅ **Advanced preprocessing & augmentation** — Data-driven performance gains
-- ✅ **State-of-the-art accuracy** — Competitive performance on benchmark datasets
-
-**Impact:** Precision medical imaging analysis that helps radiologists catch tumors earlier
-
----
-
-### **📜 BLOCKCHAIN DOCUMENT VERIFICATION SYSTEM**
-**Certificates That Can't Be Faked**
-
-```
-Technologies: Solidity | IPFS | Polygon | MetaMask | Web3.js
-```
-
-**What Makes It Special:**
-- ✅ **Decentralized certificate validation** — No central authority needed
-- ✅ **Tamper-proof blockchain verification** — Cryptographically secured
-- ✅ **Smart contract authentication** — Automated, trustless verification
-- ✅ **IPFS distributed storage** — Content-addressable immutable documents
-
-**Impact:** Educational institutions now issue credentials that are globally verifiable and impossible to counterfeit
-
-</div>
-
----
-
-## 📊 **BY THE NUMBERS**
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=crazykush333&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazykush333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 <br><br>
 
@@ -144,70 +96,133 @@ Technologies: Solidity | IPFS | Polygon | MetaMask | Web3.js
 
 ---
 
-## 🏆 **RECOGNITION & ACHIEVEMENTS**
-
-| 🥇 Award | 📌 Details |
-|:---:|---|
-| **NPTEL Top 1%** | Cloud Computing Excellence — IIT Kharagpur |
-| **IEEE Published Author** | Research in AI + Blockchain Systems |
-| **Code For Good 2025** | Top 503 among 50,000+ global participants |
-| **Chancellor's Scholarship** | Full tuition fee waiver — Academic Excellence |
-| **PwC NextGen Leaders** | Top 10 among 4,000+ participants |
-
-<img src="https://github-profile-trophy.vercel.app/?username=crazykush333&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
----
-
-## 🌐 **LET'S CONNECT & COLLABORATE**
+# 🚀 Featured Projects
 
 <div align="center">
 
-**I'm always excited to discuss:**
-- 🧠 Cutting-edge AI/ML research
-- ⛓️ Blockchain innovations & Web3
-- 🚀 Building impactful products
-- 🤝 Open source collaboration
+<table>
+<tr>
+<td width="50%">
 
-### **Reach Out!**
+## 🔐 Blockchain Enhanced XAI Fraud Detection
+
+### 🚀 Tech Stack
+Python • XGBoost • SHAP • Hyperledger Fabric
+
+### 🌟 Highlights
+- Explainable AI-powered fraud detection
+- Blockchain-secured transaction logging
+- Optimized preprocessing with SMOTE balancing
+- Enhanced transparency using SHAP explainability
+
+</td>
+
+<td width="50%">
+
+## 🧬 Brain Tumor Segmentation using 3D U-Net
+
+### 🚀 Tech Stack
+TensorFlow • Python • BRATS 2020
+
+### 🌟 Highlights
+- 3D U-Net based medical image segmentation
+- Multi-modal MRI analysis
+- Advanced preprocessing & augmentation
+- Improved segmentation accuracy
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 📜 Blockchain Document Verification System
+
+### 🚀 Tech Stack
+Solidity • IPFS • Polygon • MetaMask
+
+### 🌟 Highlights
+- Secure decentralized certificate validation
+- Tamper-proof blockchain verification
+- Smart contract-based authentication
+- IPFS-powered distributed storage
+
+</td>
+
+<td width="50%">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🏆 Achievements & Recognition
+
+
+<br>
+
+<div align="center">
+
+| 🏅 Achievement | 📌 Recognition |
+|---|---|
+| 🥇 NPTEL TOP 1% | Cloud Computing — IIT Kharagpur |
+| 🧠 IEEE Author | Published AI + Blockchain research |
+| 💡 Code For Good 2025 | Top 503 among 50,000+ participants |
+| 🎓 Chancellor’s Scholarship | Full tuition fee waiver |
+| 🚀 PwC NextGen Leaders | Top 10 among 4,000 participants |
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/ayush-kushwaha-679851327/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ayushkushwaha21029@gmail.com">
-<img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/crazykush333">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://scholar.google.com/citations?hl=en&user=5qqQ9B0AAAAJ&view_op=list_works&gmla=AIqSsVsquwy3eszPjT2a-RFnHf3zdzhd18WK5Yb4XUzW2FUIdGH0y0Vzma1oAZp2ciaNcvT0xWTFIoqBGGhXxesm">
-<img src="https://img.shields.io/badge/Google%20Scholar-Read%20My%20Research-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.researchgate.net/profile/Ayush-Kushwaha-3?ev=hdr_xprf">
-<img src="https://img.shields.io/badge/ResearchGate-Explore%20Papers-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+</a>
+
+<a href="https://scholar.google.com/citations?hl=en&user=5qqQ9B0AAAAJ&view_op=list_works&gmla=AIqSsVsquwy3eszPjT2a-RFnHf3zdzhd18WK5Yb4XUzW2FUIdGH0y0Vzma1oAZp2ciaNcvT0xWTFIoqBGGhXxesm">
+<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 💭 **DAILY DOSE OF INSPIRATION**
+# 💭 Daily Inspiration
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" />
+
+<br><br>
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" />
 
 </div>
 
----
 
-<div align="center">
+## ⭐ Thanks for visiting my profile!
 
-## ✨ **Thanks for visiting! Star ⭐ if you find this inspiring!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:FB5607,100:FFBE0B&height=140&section=footer&text=Keep%20Building%20🚀&fontSize=25"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
 
 </div>
