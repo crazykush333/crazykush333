@@ -1,9 +1,10 @@
 <div align="center">
 
-# Hi, I'm Ayush 👋
-### 🚀 AI Researcher • Blockchain Developer • Computer Science Engineer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Ayush%20Kushwaha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20•%20Blockchain%20Developer%20•%20Computer%20Science%20Engineer&descAlignY=60&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=800&color=00E5FF&center=true&vCenter=true&width=1000&lines=Building+Trustworthy+AI+Systems;Blockchain+%2B+Explainable+AI+Research;Full+Stack+Developer+%7C+AI+Engineer;IEEE+Author+%7C+Open+Source+Contributor;Always+Learning+Something+New+⚡" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Ayush+👋;Building+Trustworthy+AI+Systems;Blockchain+%2B+Explainable+AI+Research;Full+Stack+Developer+%7C+AI+Engineer;IEEE+Published+Researcher;Open+Source+Contributor+🚀;Always+Learning+Something+New+⚡" />
 
 <br><br>
 
@@ -12,11 +13,15 @@
 </a>
 
 <a href="https://komarev.com/ghpvc/?username=crazykush333">
-<img src="https://komarev.com/ghpvc/?username=crazykush333&style=for-the-badge&color=0e75b6" />
+<img src="https://komarev.com/ghpvc/?username=crazykush333&style=for-the-badge&color=00E5FF" />
 </a>
 
 <a href="https://github.com/crazykush333?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Open_Source-00C853?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-00C853?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://scholar.google.com/citations?hl=en&user=5qqQ9B0AAAAJ&view_op=list_works&gmla=AIqSsVsquwy3eszPjT2a-RFnHf3zdzhd18WK5Yb4XUzW2FUIdGH0y0Vzma1oAZp2ciaNcvT0xWTFIoqBGGhXxesm">
+<img src="https://img.shields.io/badge/Google%20Scholar-Research-blue?style=for-the-badge&logo=google-scholar" />
 </a>
 
 </div>
@@ -25,40 +30,28 @@
 
 # 🌌 About Me
 
-```yaml
-Name: Ayush Kushwaha
-Location: Nepal 🇳🇵
-Degree: B.Tech in Computer Science Engineering
-CGPA: 9.04/10
-Interests:
-  - Artificial Intelligence
-  - Explainable AI (XAI)
-  - Blockchain Systems
-  - Secure Distributed Systems
-  - Machine Learning Research
-  - Computer Vision
-```
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-🎓 Computer Science graduate passionate about developing **secure, transparent, and intelligent systems** through the integration of **AI + Blockchain technologies**.
+### 👨‍💻 Ayush Kushwaha
+- 🎓 B.Tech in Computer Science Engineering
+- 📍 Nepal 🇳🇵
+- 🧠 Passionate about Artificial Intelligence & Blockchain
+- 🔬 IEEE Published Researcher
+- 🚀 Exploring Explainable AI, Secure Systems & Deep Learning
+- 💡 Enthusiastic about building impactful tech solutions
+- 🌱 Continuously learning and contributing to open source
 
-🧠 My work focuses on:
-- Explainable AI for security-critical systems
-- Blockchain-powered trust mechanisms
-- Machine Learning optimization
-- AI-driven research systems
-- Computer Vision & Medical Imaging
-
-📚 Published IEEE research in AI + Blockchain systems.
+<br><br>
 
 ---
 
-# ⚡ Tech Arsenal
+# ⚡ Tech Stack
 
 <div align="center">
 
 ## 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,solidity,sql" />
 
 ## 🚀 Frameworks & Technologies
 
@@ -66,7 +59,7 @@ Interests:
 
 ## 🛠️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=vscode,github,pycharm,idea,androidstudio" />
+<img src="https://skillicons.dev/icons?i=vscode,github,pycharm,idea,androidstudio,postman" />
 
 </div>
 
@@ -78,46 +71,24 @@ Interests:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crazykush333&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=crazykush333&theme=tokyonight&hide_border=true" />
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crazykush333&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🧠 Featured Research & Projects
+# 🚀 Featured Projects
 
-## 🔐 Blockchain Enhanced Explainable AI for Fraud Detection
+<div align="center">
 
-> AI + Blockchain + XAI + FinTech Security
+| 💻 Project | 🚀 Tech Stack | 🌟 Highlights |
+|---|---|---|
+| **Blockchain Enhanced XAI Fraud Detection** | Python, XGBoost, SHAP, Hyperledger | Explainable AI + Blockchain-powered fraud prevention |
+| **3D Brain Tumor Segmentation** | TensorFlow, Python, BRATS 2020 | Deep Learning medical imaging with 3D U-Net |
+| **Blockchain Document Verification** | Solidity, IPFS, Polygon | Secure decentralized academic verification |
+| **AI Research Planning Tools** | LLMs, Automation | AI-assisted research productivity systems |
 
-- Developed an **XGBoost-based fraud detection system**
-- Integrated **SHAP explainability**
-- Built tamper-proof transaction logging using **Hyperledger Fabric**
-- Improved fraud detection performance using optimized preprocessing and SMOTE balancing
-
----
-
-## 🧬 Brain Tumor Segmentation using 3D U-Net
-
-> Deep Learning + Medical Imaging + TensorFlow
-
-- Built a **3D U-Net architecture**
-- Trained on the **BRATS 2020 dataset**
-- Used multi-modal MRI inputs (T1, T1Gd, T2, FLAIR)
-- Improved segmentation accuracy through preprocessing and augmentation techniques
-
----
-
-## 📜 Blockchain-Based Document Verification
-
-> Solidity + IPFS + Polygon + Web3
-
-- Developed decentralized certificate verification
-- Integrated **Metamask authentication**
-- Used **IPFS + Polygon Mumbai Network**
-- Achieved secure and tamper-proof credential validation
+</div>
 
 ---
 
@@ -125,10 +96,18 @@ Interests:
 
 <div align="center">
 
-| Achievement | Description |
+<img src="https://github-profile-trophy.vercel.app/?username=crazykush333&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 🏅 Achievement | 📌 Description |
 |---|---|
 | 🥇 NPTEL TOP 1% | Cloud Computing — IIT Kharagpur |
-| 🧠 IEEE Author | Published research in APCIT 2025 |
+| 🧠 IEEE Author | Published AI + Blockchain research |
 | 💡 Code For Good 2025 | Top 503 among 50,000+ participants |
 | 🎓 Chancellor’s Scholarship | Full tuition fee waiver |
 | 🚀 PwC NextGen Leaders | Top 10 among 4,000 participants |
@@ -137,11 +116,11 @@ Interests:
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=crazykush333&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=crazykush333&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -175,35 +154,11 @@ Interests:
 
 ---
 
-# 🎯 Current Focus
-
-```python
-class AyushKushwaha:
-
-    def __init__(self):
-        self.current_focus = [
-            "Explainable AI Research",
-            "Blockchain Security Systems",
-            "Deep Learning",
-            "Computer Vision",
-            "Research Publications",
-            "Open Source Contributions"
-        ]
-
-    def say_hi(self):
-        print("Thanks for visiting my profile 🚀")
-
-me = AyushKushwaha()
-me.say_hi()
-```
-
----
-
-# 💭 Developer Quote
+# 💭 Quote I Believe In
 
 <div align="center">
 
-### “Technology becomes powerful when intelligence is transparent and trust is decentralized.”
+### ✨ “Technology becomes meaningful when intelligence is transparent and trust is decentralized.” ✨
 
 </div>
 
@@ -211,8 +166,8 @@ me.say_hi()
 
 <div align="center">
 
-## ⭐ If you like my work, consider following or starring my repositories!
+## ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
 
 </div>
